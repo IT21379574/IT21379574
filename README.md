@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I'm Peshala Dilshani</h1>
 
-<h3 align="center">A passionate software engineer and Quality Assurance Engineer from Sri Lanka</h3>
+<h3 align="center">💻 A Passionate Quality Assurance Engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21379574&label=Profile%20views&color=0e75b6&style=flat" alt="it21379574" /> </p>
 
